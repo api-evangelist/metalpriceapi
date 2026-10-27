@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Metal Price API is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://metalpriceapi.com/
+Metal Price API provides free real-time and historical precious metals and foreign exchange (FOREX) rates via a simple RESTful API. It offers spot prices for gold, silver, platinum, palladium and more, enabling businesses to integrate up-to-date metal pricing data into applications, dashboards, and trading systems. The service includes hourly and daily endpoints, supports multiple currencies, and is designed for easy integration with clear documentation and example code.
+
+**Areas:** Company · Metals · Finance · API · Data
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://metalpriceapi.com/)
+- [Documentation](https://metalpriceapi.com/documentation)
+- [Pricing](https://metalpriceapi.com/pricing)
+- [Support](https://metalpriceapi.com/#support)
+- [Blog](https://metalpriceapi.com/blog)
+- [Terms of service](https://metalpriceapi.com/terms)
+- [Privacy policy](https://metalpriceapi.com/privacy)
+- [GitHub](https://github.com/metalpriceapi)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/metalpriceapi/](https://apis.io/providers/metalpriceapi/).
